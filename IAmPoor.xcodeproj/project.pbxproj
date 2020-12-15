@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C20950CA2588762400446919 /* the-lump-of-coal-clip-art-coal-png.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C20950C92588762400446919 /* the-lump-of-coal-clip-art-coal-png.jpg */; };
 		C25E4E90257CC8B30096F4AD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25E4E8F257CC8B30096F4AD /* AppDelegate.swift */; };
 		C25E4E92257CC8B30096F4AD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25E4E91257CC8B30096F4AD /* SceneDelegate.swift */; };
 		C25E4E94257CC8B30096F4AD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25E4E93257CC8B30096F4AD /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C20950C92588762400446919 /* the-lump-of-coal-clip-art-coal-png.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "the-lump-of-coal-clip-art-coal-png.jpg"; sourceTree = "<group>"; };
 		C25E4E8C257CC8B30096F4AD /* IAmPoor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IAmPoor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C25E4E8F257CC8B30096F4AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C25E4E91257CC8B30096F4AD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				C25E4E95257CC8B30096F4AD /* Main.storyboard */,
 				C25E4E98257CC8B40096F4AD /* Assets.xcassets */,
 				C25E4E9A257CC8B40096F4AD /* LaunchScreen.storyboard */,
+				C20950C92588762400446919 /* the-lump-of-coal-clip-art-coal-png.jpg */,
 				C25E4E9D257CC8B40096F4AD /* Info.plist */,
 			);
 			path = IAmPoor;
@@ -126,6 +129,7 @@
 			files = (
 				C25E4E9C257CC8B40096F4AD /* LaunchScreen.storyboard in Resources */,
 				C25E4E99257CC8B40096F4AD /* Assets.xcassets in Resources */,
+				C20950CA2588762400446919 /* the-lump-of-coal-clip-art-coal-png.jpg in Resources */,
 				C25E4E97257CC8B30096F4AD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -289,6 +293,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = XA2S9L9FCH;
 				INFOPLIST_FILE = IAmPoor/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -309,6 +314,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = XA2S9L9FCH;
 				INFOPLIST_FILE = IAmPoor/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
